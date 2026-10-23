@@ -92,6 +92,12 @@ Open `http://localhost:5173` in your browser.
 See [`ALGORITHMS.md`](file:///home/aadi/Projects/ViewLab/ALGORITHMS.md) for complete technical breakdowns of SQL parsing, DAG invalidation algorithms, and time/space complexity analysis.
 
 ---
+## Team DeadLock — Team Members
+
+| S. No. | Name | Registration Number |
+|:---:|---|:---:|
+| 1 | Smit Shubhanshu Kamatnurkar | 25BCE1099 |
+| 2 | Arushi Grover | 25BCE1190 |
 
 ## 📜 License
 
